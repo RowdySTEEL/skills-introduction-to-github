@@ -1,2 +1,2 @@
-İlk dosyamı ekle
 Welcome to my GitHub profile!
+Add my first file
